@@ -100,9 +100,13 @@ function isRelevant(title, description) {
   const highPriority = INCLUDE_KEYWORD_GROUPS.slice(0, 7);
   if (highPriority.some(group => group.some(kw => text.includes(kw)))) return true;
 
-  const hasAccident = ['車禍', '交通事故', '職災', '意外', '骨折', '重傷', '死亡'].some(kw => text.includes(kw));
-  const hasInsurance = ['保險', '理賠', '賠償', '給付', '補償'].some(kw => text.includes(kw));
-  return hasAccident && hasInsurance;
+  // 寬鬆篩選：只要有保險相關詞就可以
+  // 但要排除純新聞報導沒有理賠爭議的情況
+  const hasInsuranceKeyword = ['保險', '理賠', '賠償', '給付', '補償', '申訴', '爭議'].some(kw => text.includes(kw));
+  const hasLifeEvent = ['車禍', '交通事故', '職災', '意外', '骨折', '重傷', '死亡', '自殺', '昏迷', '植物人', '監護宣告', '法定代理人'].some(kw => text.includes(kw));
+  
+  // 只要有保險 + 人身事件，就視為相關
+  return hasInsuranceKeyword && hasLifeEvent;
 }
 
 // ===== RSS 資料來源（優化版 - 去掉重複度高的源） =====
