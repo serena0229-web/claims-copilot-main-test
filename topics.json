@@ -1,0 +1,758 @@
+{
+  "total": 94,
+  "last_used_id": 0,
+  "topics": [
+    {
+      "id": 1,
+      "title": "高處墜落全身多處骨折",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "勞保職災給付＋勞基59＋侵權三層賠償怎麼疊加？",
+      "used": false
+    },
+    {
+      "id": 2,
+      "title": "堆高機壓傷腳踝僵直",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "傷病給付 vs 同步規劃失能、勞基59、侵權和解的時間點。",
+      "used": false
+    },
+    {
+      "id": 3,
+      "title": "扛重物椎間盤突出",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "醫生診斷「退化」vs「職災」，病歷如何寫才不被誤判。",
+      "used": false
+    },
+    {
+      "id": 4,
+      "title": "化學物質暴露職業病",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "職業病認定流程、作業環境證據如何蒐集。",
+      "used": false
+    },
+    {
+      "id": 5,
+      "title": "焊接工人肺癌",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "因果關係如何建立、醫師鑑定策略。",
+      "used": false
+    },
+    {
+      "id": 6,
+      "title": "臨時工未加保職災",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "「未加保」不等於沒保障，雇主補償＋補保策略。",
+      "used": false
+    },
+    {
+      "id": 7,
+      "title": "外包司機廠區意外",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "原事業單位 vs 外包公司責任如何切割。",
+      "used": false
+    },
+    {
+      "id": 8,
+      "title": "通勤災害爭議",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "繞路、載小孩、買早餐會不會不算通勤災害？",
+      "used": false
+    },
+    {
+      "id": 9,
+      "title": "宿舍滑倒是否職災",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "宿舍屬不屬於工作必要生活空間？",
+      "used": false
+    },
+    {
+      "id": 10,
+      "title": "被召回加班途中車禍",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "待命、召回、緊急回廠途中算不算工時？",
+      "used": false
+    },
+    {
+      "id": 11,
+      "title": "搬重物造成肩袖撕裂",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "急性 vs 慢性職業病證明方式。",
+      "used": false
+    },
+    {
+      "id": 12,
+      "title": "工作中心肌梗塞",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "過勞、工時、輪班紀錄如何變成證據。",
+      "used": false
+    },
+    {
+      "id": 13,
+      "title": "出差飲酒跌倒",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "公務行程飲酒跌倒是否為職災？",
+      "used": false
+    },
+    {
+      "id": 14,
+      "title": "職災後逼離職",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "職災後逼簽自願離職的蒐證與解法。",
+      "used": false
+    },
+    {
+      "id": 15,
+      "title": "職災後不當調職",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "復工後被調去更重工作，是否合法？",
+      "used": false
+    },
+    {
+      "id": 16,
+      "title": "調職降薪爭議",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "調職降薪屬不屬於不利變更？",
+      "used": false
+    },
+    {
+      "id": 17,
+      "title": "醫療超2年工資爭議",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "醫療兩年上限、一次給付 40 個月判斷重點。",
+      "used": false
+    },
+    {
+      "id": 18,
+      "title": "工地掉落物砸傷路人",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "承攬、發包、雇主責任如何交叉？",
+      "used": false
+    },
+    {
+      "id": 19,
+      "title": "夜班疲勞摔倒",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "疲勞、輪班、工時紀錄如何認定職災？",
+      "used": false
+    },
+    {
+      "id": 20,
+      "title": "外送員多頭接案職災",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "多平台接案，誰是雇主？",
+      "used": false
+    },
+    {
+      "id": 21,
+      "title": "未戴安全帽責任",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "勞工有過失是否會減少雇主責任？",
+      "used": false
+    },
+    {
+      "id": 22,
+      "title": "同事惡作劇受傷",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "同事惡作劇是否算職災？",
+      "used": false
+    },
+    {
+      "id": 23,
+      "title": "加班紀錄爭議",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "Line 紀錄、打卡紀錄如何成為證據？",
+      "used": false
+    },
+    {
+      "id": 24,
+      "title": "失能等級差異",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "勞保 vs 壽險失能等級差異。",
+      "used": false
+    },
+    {
+      "id": 25,
+      "title": "高薪低報",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "追補高薪低報的流程與風險評估。",
+      "used": false
+    },
+    {
+      "id": 26,
+      "title": "員工自付職災保費",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "雇主不能轉嫁職災保費，抵充是否合法？",
+      "used": false
+    },
+    {
+      "id": 27,
+      "title": "假承攬真雇傭",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "實質雇傭 vs 假承攬如何認定？",
+      "used": false
+    },
+    {
+      "id": 28,
+      "title": "噪音暴露聽損",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "噪音暴露與聽損如何連結？",
+      "used": false
+    },
+    {
+      "id": 29,
+      "title": "只申請勞保未請民事",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "只申請勞保 vs 同時申請民事怎麼做？",
+      "used": false
+    },
+    {
+      "id": 30,
+      "title": "勞保專員協助仍不懂",
+      "category": "職災",
+      "type": "故事型",
+      "key_points": "制度有溫度但仍需整合專業——統包角度。",
+      "used": false
+    },
+    {
+      "id": 31,
+      "title": "強制險給付但第三責任拒賠",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "未即時通知保險公司導致拒賠如何補救？",
+      "used": false
+    },
+    {
+      "id": 32,
+      "title": "被告敗訴事後才找保險",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "訴訟中沒告知保險公司權益如何挽回？",
+      "used": false
+    },
+    {
+      "id": 33,
+      "title": "肇逃受害只能靠強制險",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "肇逃事故可用哪些補充管道？",
+      "used": false
+    },
+    {
+      "id": 34,
+      "title": "自撞追償酒駕",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "酒駕、無照駕駛，保險如何追償？",
+      "used": false
+    },
+    {
+      "id": 35,
+      "title": "乘客沒繫安全帶",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "乘客未繫安全帶的過失比例。",
+      "used": false
+    },
+    {
+      "id": 36,
+      "title": "行人闖紅燈責任",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "行人過失不等於肇事者免責。",
+      "used": false
+    },
+    {
+      "id": 37,
+      "title": "機車違規左轉 vs 超速",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "違規 vs 超速如何影響責任比例。",
+      "used": false
+    },
+    {
+      "id": 38,
+      "title": "孩童巷口飛出",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "住宅巷弄的照顧義務。",
+      "used": false
+    },
+    {
+      "id": 39,
+      "title": "通勤車禍職災並存",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "職災＋車禍一次打開多層賠償。",
+      "used": false
+    },
+    {
+      "id": 40,
+      "title": "拖延確診神經傷",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "早期誤診如何補強醫療紀錄？",
+      "used": false
+    },
+    {
+      "id": 41,
+      "title": "和解後才知保單可以賠",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "和解前未清點保單，如何補救？",
+      "used": false
+    },
+    {
+      "id": 42,
+      "title": "二手零件與殘值爭議",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "殘值、二手件爭議怎麼談？",
+      "used": false
+    },
+    {
+      "id": 43,
+      "title": "自摔但前車違停",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "違停造成的連帶責任？",
+      "used": false
+    },
+    {
+      "id": 44,
+      "title": "閃狗急打方向",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "緊急避難是否免責？",
+      "used": false
+    },
+    {
+      "id": 45,
+      "title": "公車急煞摔傷",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "大眾運輸責任與監視器調閱重點。",
+      "used": false
+    },
+    {
+      "id": 46,
+      "title": "公司車責任界定",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "公司車的雇主責任範圍。",
+      "used": false
+    },
+    {
+      "id": 47,
+      "title": "保單自動終止",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "保費逾期、寬限期對理賠的影響。",
+      "used": false
+    },
+    {
+      "id": 48,
+      "title": "住院日額不符",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "觀察床、留觀、日間手術是否算住院？",
+      "used": false
+    },
+    {
+      "id": 49,
+      "title": "復健費不賠",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "出院後復健費如何納入賠償？",
+      "used": false
+    },
+    {
+      "id": 50,
+      "title": "車禍 PTSD",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "精神損害、PTSD 是否可理賠？",
+      "used": false
+    },
+    {
+      "id": 51,
+      "title": "租賃車事故",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "租賃車、共享車責任連動。",
+      "used": false
+    },
+    {
+      "id": 52,
+      "title": "外送平台事故",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "平台稱「合作關係」但是否有雇傭實質？",
+      "used": false
+    },
+    {
+      "id": 53,
+      "title": "業務員叫不要報案",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "業務員叫不要報案的陷阱。",
+      "used": false
+    },
+    {
+      "id": 54,
+      "title": "無筆錄後續變嚴重",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "無筆錄時事後補強證據策略。",
+      "used": false
+    },
+    {
+      "id": 55,
+      "title": "兼職收入減損",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "兼職、獎金、接案收入如何證明？",
+      "used": false
+    },
+    {
+      "id": 56,
+      "title": "校園追逐摔傷",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "學生平安險常見理賠流程盲點。",
+      "used": false
+    },
+    {
+      "id": 57,
+      "title": "校外教學車禍",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "校外教學事故保險交叉理賠。",
+      "used": false
+    },
+    {
+      "id": 58,
+      "title": "體育課拉傷",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "體能問題 vs 教學安全。",
+      "used": false
+    },
+    {
+      "id": 59,
+      "title": "社團球類眼傷",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "眼傷如何認定失能程度？",
+      "used": false
+    },
+    {
+      "id": 60,
+      "title": "宿舍樓梯摔傷",
+      "category": "車禍",
+      "type": "地雷提醒",
+      "key_points": "校園生活空間是否受保？",
+      "used": false
+    },
+    {
+      "id": 61,
+      "title": "校園路跑中暑",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "活動風險、同意書與保險界線。",
+      "used": false
+    },
+    {
+      "id": 62,
+      "title": "籃球牙齒斷裂",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "牙醫費、植牙費能不能請？",
+      "used": false
+    },
+    {
+      "id": 63,
+      "title": "機具課受傷",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "機具安全、學校管理責任。",
+      "used": false
+    },
+    {
+      "id": 64,
+      "title": "通學路車禍",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "上下學途中可動用哪些保險？",
+      "used": false
+    },
+    {
+      "id": 65,
+      "title": "霸凌推撞",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "霸凌推撞的除外責任與理賠差異。",
+      "used": false
+    },
+    {
+      "id": 66,
+      "title": "忽略學生平安險",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "兩年時效容易被忽略。",
+      "used": false
+    },
+    {
+      "id": 67,
+      "title": "重大疾病大額給付",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "重大疾病在學生平安險的給付方式。",
+      "used": false
+    },
+    {
+      "id": 68,
+      "title": "濫用平安險爭議",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "濫用 vs 正當使用的界線。",
+      "used": false
+    },
+    {
+      "id": 69,
+      "title": "既往症拒賠",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "既往症如何被保險公司拿來拒賠？",
+      "used": false
+    },
+    {
+      "id": 70,
+      "title": "拖件超久",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "拖件、補件、超時的處理方法。",
+      "used": false
+    },
+    {
+      "id": 71,
+      "title": "溺水事故",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "溺水事故的保險與國賠可能性。",
+      "used": false
+    },
+    {
+      "id": 72,
+      "title": "補習班 vs 學校保險",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "補習班 vs 學校保險範圍不同。",
+      "used": false
+    },
+    {
+      "id": 73,
+      "title": "家長不知道有保險",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "家長如何查詢既有保單？",
+      "used": false
+    },
+    {
+      "id": 74,
+      "title": "以為只能申請一次",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "按次理賠 vs 按事故理賠的差異。",
+      "used": false
+    },
+    {
+      "id": 75,
+      "title": "癌末是否屬失能",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "癌末是否符合失能？法院觀點。",
+      "used": false
+    },
+    {
+      "id": 76,
+      "title": "症狀未固定拒賠",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "未固定 6 個月是否可以拒賠？",
+      "used": false
+    },
+    {
+      "id": 77,
+      "title": "日常生活可自理不賠",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "日常生活可自理如何判斷？",
+      "used": false
+    },
+    {
+      "id": 78,
+      "title": "長照但不算失能",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "長照與失能的差異。",
+      "used": false
+    },
+    {
+      "id": 79,
+      "title": "住院天數爭議",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "入出院日數爭議重點。",
+      "used": false
+    },
+    {
+      "id": 80,
+      "title": "調件拖延",
+      "category": "學保",
+      "type": "教學型",
+      "key_points": "拖件策略判斷。",
+      "used": false
+    },
+    {
+      "id": 81,
+      "title": "業務員亂承諾",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "業務員口頭承諾 vs 條款。",
+      "used": false
+    },
+    {
+      "id": 82,
+      "title": "告知不實爭議",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "告知不實如何攻防？",
+      "used": false
+    },
+    {
+      "id": 83,
+      "title": "體檢還沒出先核保",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "核保流程問題如何舉證？",
+      "used": false
+    },
+    {
+      "id": 84,
+      "title": "儲蓄險保障不足",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "儲蓄險額度不足怎麼補救？",
+      "used": false
+    },
+    {
+      "id": 85,
+      "title": "意外 vs 疾病",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "外力 vs 內因的保險爭點。",
+      "used": false
+    },
+    {
+      "id": 86,
+      "title": "猝死認定",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "猝死是疾病死亡還是意外？",
+      "used": false
+    },
+    {
+      "id": 87,
+      "title": "精神疾病除外",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "精神疾患除外條款如何判讀？",
+      "used": false
+    },
+    {
+      "id": 88,
+      "title": "條款改版差異",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "舊保單 vs 新保單差異。",
+      "used": false
+    },
+    {
+      "id": 89,
+      "title": "和解保密條款",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "和解保密條款簽了怎麼辦？",
+      "used": false
+    },
+    {
+      "id": 90,
+      "title": "舊傷拒賠",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "舊傷 vs 新傷如何認定？",
+      "used": false
+    },
+    {
+      "id": 91,
+      "title": "失能扶助金沒注意",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "失能扶助金常被忽略的條文。",
+      "used": false
+    },
+    {
+      "id": 92,
+      "title": "高齡不當銷售",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "高齡者不當銷售如何舉證？",
+      "used": false
+    },
+    {
+      "id": 93,
+      "title": "多張保單混淆",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "主約附約疊加與否？",
+      "used": false
+    },
+    {
+      "id": 94,
+      "title": "訴訟後反而多賠",
+      "category": "爭議理賠",
+      "type": "問答型",
+      "key_points": "訴訟如何反轉保險公司決定？",
+      "used": false
+    }
+  ]
+}

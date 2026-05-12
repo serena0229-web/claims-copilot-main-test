@@ -1,0 +1,9 @@
+{
+  "name": "claims-copilot",
+  "version": "1.0.0",
+  "description": "理賠代理人內容營銷自動化系統",
+  "main": "news_scraper.js",
+  "scripts": {
+    "start": "node news_scraper.js"
+  }
+}
