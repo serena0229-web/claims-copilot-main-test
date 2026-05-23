@@ -2,7 +2,7 @@ name: 每日理賠新聞文案生成
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 17 * * *'  # 台灣凌晨 1:00（司法院 API 服務時段）
   workflow_dispatch:
 
 jobs:
@@ -18,11 +18,15 @@ jobs:
         with:
           node-version: '24'
 
+      - name: 安裝套件
+        run: npm install
+
       - name: 執行文案生成
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+          JUDICIAL_USER: ${{ secrets.JUDICIAL_USER }}
+          JUDICIAL_PASSWORD: ${{ secrets.JUDICIAL_PASSWORD }}
         run: |
           echo "===== 開始每日文案生成 =====" 
           node insurance_copilot.js
